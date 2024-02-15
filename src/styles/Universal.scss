@@ -1,0 +1,8 @@
+body {
+  background: #fafafa; // Hacky, but this color is part of the Material UI default light theme
+  overflow-y: hidden;
+  overflow-x: scroll;
+  min-width: 1300px; // Hacky
+  height: 100vh;
+  margin: 0;
+}
